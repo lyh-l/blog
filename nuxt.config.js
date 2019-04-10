@@ -64,7 +64,7 @@ module.exports = {
    */
   build: {
     //打包路径
-    publicPath:"https://lyh-l.github.io/blog/dist/",
+    publicPath:"https://lyh-l.github.io/blog/dist",
     /*
      ** You can extend webpack config here
      */
