@@ -33,7 +33,8 @@ module.exports = {
     }]
   },
   proxy: {
-    '/person': 'http://yapi.demo.qunar.com/mock/68007'
+    // '/person': 'http://yapi.demo.qunar.com/mock/68007'
+    '/person':'https://www.easy-mock.com/mock/5cad693c549690208f8f5a25'
   },
   /*
    ** Customize the progress-bar color
